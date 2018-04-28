@@ -1,0 +1,27 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Hello, this is a server for serving up static files for demo usage.",
+  "main": "server.js",
+  "dependencies": {
+    "node-static": "^0.7.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/540376482yzb/static_web_server.git"
+  },
+  "keywords": [
+    "static"
+  ],
+  "author": "zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/540376482yzb/static_web_server/issues"
+  },
+  "homepage": "https://github.com/540376482yzb/static_web_server#readme"
+}
